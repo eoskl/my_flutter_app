@@ -1,5 +1,5 @@
-import 'package:amplify_trips_planner/common/navigation/router/routes.dart';
-import 'package:amplify_trips_planner/features/trip/ui/trips_list/trips_list_page.dart';
+import 'package:my_flutter_app/common/navigation/router/routes.dart';
+import 'package:my_flutter_app/features/trip/ui/trips_list/trips_list_page.dart';
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 

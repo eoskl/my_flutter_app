@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:amplify_trips_planner/common/utils/colors.dart' as constants;
+import 'package:my_flutter_app/common/utils/colors.dart' as constants;
 
 class TripsListPage extends StatelessWidget {
   const TripsListPage({

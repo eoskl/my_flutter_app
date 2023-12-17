@@ -1,6 +1,6 @@
 import 'package:amplify_authenticator/amplify_authenticator.dart';
-import 'package:amplify_trips_planner/common/navigation/router/router.dart';
-import 'package:amplify_trips_planner/common/utils/colors.dart' as constants;
+import 'package:my_flutter_app/common/navigation/router/router.dart';
+import 'package:my_flutter_app/common/utils/colors.dart' as constants;
 import 'package:flutter/material.dart';
 
 class TripsPlannerApp extends StatelessWidget {
